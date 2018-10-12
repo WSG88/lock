@@ -1,0 +1,18 @@
+html{background:url(../images/bg.png) repeat;}
+body{background:none;}
+.banner-swiper img{width: 100%;}
+.container{background-color: #fff;}
+.self_nav{font-size: 21px;margin-top: 10px;}
+.price small{color: red;}
+.price big{font-size: 22px;margin: 0px 5px;}
+
+.ptitle{padding: 10px;display: block;font-size: 18px;}
+
+.ads .clu{margin-left: -10px;}
+.ads img{width: 100%;height: 100px;margin:10px;}
+
+.media.ints img{width: 70px;height: 70px;}
+
+.foot{border-top: 1px solid #d8d5d5;padding-top: 10px;margin: 0px;}
+
+.about{border: 1px #d8d5d5 solid;margin-bottom: 10px;padding: 10px;background-color: #f7f3f3;border-radius: 5px;}
